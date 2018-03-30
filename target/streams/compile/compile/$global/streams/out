@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/YEAR2PROJECT/year2project/app/views/index.scala.html:34:32: value at is not a member of controllers.ReverseAssets[0m
+[0m[[0m[31merror[0m] [0m[0m      <img src="@routes.Assets.at("images/processor.png")" width="50"/>[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/YEAR2PROJECT/year2project/app/views/index.scala.html:39:32: value at is not a member of controllers.ReverseAssets[0m
+[0m[[0m[31merror[0m] [0m[0m      <img src="@routes.Assets.at("images/card.png")" width="60"/>[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/YEAR2PROJECT/year2project/app/views/index.scala.html:44:32: value at is not a member of controllers.ReverseAssets[0m
+[0m[[0m[31merror[0m] [0m[0m      <img src="@routes.Assets.at("images/ssd.png")" width="50"/>[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
